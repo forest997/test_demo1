@@ -1,8 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-        TestVO testVO = new TestVO();
-        System.out.println(testVO);
+        TestVo testVo = new TestVo();
+        System.out.println(testVo);
         System.out.println("Hello World!");
     }
 }
